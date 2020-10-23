@@ -1,2 +1,2 @@
 config:
-  info: main branch,SpringCloud-config/config-prod.yml version=1
+  info: prod branch,SpringCloud-config/config-prod.yml version=1
