@@ -1,4 +1,5 @@
-config:
-  info: main branch,SpringCloud-config/config-prod.yml version=5
 mysql:
   db: db2019
+config:
+  info: main branch,SpringCloud-config/config-prod.yml version=5
+
