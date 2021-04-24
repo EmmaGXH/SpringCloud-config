@@ -1,5 +1,5 @@
 mysql:
-  db: 2019db
+  db: goods
 config:
   info: main branch,SpringCloud-config/config-prod.yml version=5
 
